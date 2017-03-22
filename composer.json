@@ -1,6 +1,6 @@
 {
     "name": "hjd919/composer",
-    "description": "test1.0.1",
+    "description": "test1.0.2",
     "require": {
         "monolog/monolog": "^1.22"
     },
