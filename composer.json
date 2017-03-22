@@ -1,0 +1,17 @@
+{
+    "name": "jdhu/composer",
+    "description": "test",
+    "version": "1.0.0",
+    "require": {
+        "monolog/monolog": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {"HJD\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "hjd919",
+            "email": "297538600@qq.com"
+        }
+    ]
+}
