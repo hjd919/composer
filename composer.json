@@ -1,17 +1,12 @@
 {
     "name": "hjd919/composer",
     "description": "test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "monolog/monolog": "^1.22"
     },
     "autoload": {
         "psr-4": {"HJD\\": "src/"}
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.0-dev"
-        }
     },
     "authors": [
         {
